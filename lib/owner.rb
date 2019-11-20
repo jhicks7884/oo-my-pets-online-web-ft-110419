@@ -12,7 +12,11 @@ class Owner
     @@all
   end
 
-  def get_name
-    return @name
+  def self.count
+    @@all.count    
   end
+
+  def self.reset_all
+    @@all = []
+end
 end
