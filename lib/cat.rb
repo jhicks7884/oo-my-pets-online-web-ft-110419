@@ -14,5 +14,3 @@ class Cat
     @@all
   end
 end
-  # code goes here
-end
