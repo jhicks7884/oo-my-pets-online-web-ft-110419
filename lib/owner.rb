@@ -14,4 +14,6 @@ class Owner
   end
 end
 
-@name = owner.new
+owner = owner.new
+owner.set_name("victoria")
+puts ("owner.get_name")
