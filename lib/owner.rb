@@ -4,10 +4,10 @@ class Owner
   def initialize(owner_name)
     @name = name
   end
-end
 
- def get_name
-   return @name
- end
+  def get_name
+    return @name
+  end
+end
 
 end
