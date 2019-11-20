@@ -13,4 +13,3 @@ class Owner
     return @name
   end
 end
-
