@@ -6,8 +6,8 @@ class Owner
   end
 end
 
-def get_name
-  return @name
-end
+ def get_name
+   return @name
+ end
 
 end
