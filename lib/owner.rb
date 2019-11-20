@@ -1,5 +1,4 @@
 class Owner
-
   attr_accessor :name
 
   def initialize(owner_name)
