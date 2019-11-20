@@ -9,3 +9,5 @@ class Owner
     return @name
   end
 end
+
+owner = owner.new("victoria")
