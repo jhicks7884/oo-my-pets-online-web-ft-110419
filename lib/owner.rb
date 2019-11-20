@@ -5,3 +5,9 @@ class Owner
     @name = name
   end
 end
+
+def get_name
+  return @name
+end
+
+end
